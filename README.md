@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Science at the University of Helsinki<br>🌱 I’m currently learning about cybersecurity<br>👯 I’m looking to collaborate on cybersecurity projects<br>
+🔭 I’m currently studying Computer Science at the University of Helsinki<br>🌱 I’m currently learning about cybersecurity<br>🤝 I’m looking to collaborate on cybersecurity projects<br>
 
 
 ## 🌐 Socials:
