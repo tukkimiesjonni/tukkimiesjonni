@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently studying Computer Science at the University of Helsinki<br>🌱 I’m currently learning about cybersecurity<br>🤝 I’m looking to collaborate on cybersecurity projects<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tukkimiesjonni) 
 
